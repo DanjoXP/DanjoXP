@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Currently studying Computer Science at University.
+In my spare time i Like to make games or play them
 <!--
 **DanjoXP/DanjoXP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
